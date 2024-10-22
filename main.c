@@ -1,6 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
+
 void shellc1();
 void shellc2();
+
 int main(){
   shellc1();
   shellc2();

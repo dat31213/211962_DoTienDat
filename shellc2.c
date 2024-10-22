@@ -1,4 +1,4 @@
 #include<stdio.h>
-void shellc1(){
+void shellc2() {
   printf("This is shellc2\n");
 }
